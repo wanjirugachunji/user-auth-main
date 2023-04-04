@@ -3,22 +3,14 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
+1. Fork and clone user-auth-main repositories
+2
+  - cd into the project directory
+  - run 'bundle install'
+  - run 'rake db:migrate'
+  - run 'bundle exec rails server' to start the server
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * ...
