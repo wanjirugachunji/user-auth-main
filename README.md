@@ -6,7 +6,7 @@ application up and running.
 ## Installation
 
 1. Fork and clone user-auth-main repositories
-2
+
   - cd into the project directory
   - run 'bundle install'
   - run 'rake db:migrate'
